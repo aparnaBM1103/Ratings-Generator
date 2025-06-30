@@ -11,6 +11,8 @@
 2. Double-click the folder to unzip it.
 3. You will need a password to unlock the folder - please reach out to Aparna for the password.
 4. Depending on your OS (Mac/Windows) please follow the appropriate instructions below.
+5. As the automation runs, you should see a set of appropriate comments pop up in the gray box, as well as a progress bar updated.
+6. Once it is complete, navigate to the "Results" tab and click on the Google Sheet to view the analysis.
 
 #### MAC USERS:
 1. Double-click "AI-Fund-Ratings.command"
