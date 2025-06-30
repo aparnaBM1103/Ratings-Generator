@@ -17,14 +17,14 @@
 2. If Mac blocks it: Right-click → Open → Open anyway
 3. Wait for installation (first time only, ~2 minutes).
 4. Shortly, a new browser will open automatically - DO NOT CLOSE THIS WINDOW.
-5. Enter your Humata credentials on the left-hand side navigation bar and click "Run Automation".
+5. Enter your credentials on the left-hand side navigation bar and click "Run Automation".
 
 #### WINDOWS USERS:
 1. Double-click "AI-Fund-Ratings.bat"  
 2. If Windows blocks it: Click "More info" → "Run anyway"
 3. Wait for installation (first time only, ~2 minutes)
 4.  Shortly, a new browser will open automatically - DO NOT CLOSE THIS WINDOW.
-5. Enter your Humata credentials on the left-hand side navigation bar and click "Run Automation".
+5. Enter your credentials on the left-hand side navigation bar and click "Run Automation".
 
 #### TO STOP THE APP:
 - Close the browser tab
