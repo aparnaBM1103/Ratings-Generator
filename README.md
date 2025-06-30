@@ -8,7 +8,9 @@
 ### INSTRUCTIONS:
 
 1. Download the zipped folder (AI-Fund-Ratings.zip).
-2. Double-click the folder to unzip it. You should see a set of different files. Depending on your OS (Mac/Windows) please follow the appropriate instructions. 
+2. Double-click the folder to unzip it.
+3. You will need a password to unlock the folder - please reach out to Aparna for the password.
+4. Depending on your OS (Mac/Windows) please follow the appropriate instructions below.
 
 #### MAC USERS:
 1. Double-click "AI-Fund-Ratings.command"
